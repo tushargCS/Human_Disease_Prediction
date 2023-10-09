@@ -39,10 +39,3 @@ Our approach involves the following steps:
 
 We have achieved promising results in disease prediction using machine learning models. Detailed results and visualizations can be found in the project's [results folder](results/).
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow the steps outlined in the [Contributing](#contributing) section of this README.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
